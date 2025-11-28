@@ -67,51 +67,6 @@ No copyrighted material or real-person identity reconstruction is used.
 
 LoRA hyperparameters:
 
----
-
-## 📘 Dataset
-
-The dataset consists of ~216 instruction–response pairs representing Stoic guidance about:
-
-- Anger  
-- Grief  
-- Uncertainty & fear  
-- Emotional control  
-- Virtue & judgment  
-- Acceptance and impermanence  
-
-All responses are original paraphrases written in the *style* of Marcus Aurelius.
-No copyrighted material or real-person identity reconstruction is used.
-
----
-
-## 🔧 Fine-Tuning
-
-LoRA hyperparameters:
-
-
----
-
-## 📘 Dataset
-
-The dataset consists of ~216 instruction–response pairs representing Stoic guidance about:
-
-- Anger  
-- Grief  
-- Uncertainty & fear  
-- Emotional control  
-- Virtue & judgment  
-- Acceptance and impermanence  
-
-All responses are original paraphrases written in the *style* of Marcus Aurelius.
-No copyrighted material or real-person identity reconstruction is used.
-
----
-
-## 🔧 Fine-Tuning
-
-LoRA hyperparameters:
-
 r = 16
 lora_alpha = 32
 lora_dropout = 0.05
